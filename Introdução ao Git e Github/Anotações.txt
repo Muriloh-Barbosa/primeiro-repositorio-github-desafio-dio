@@ -1,0 +1,2 @@
+Esta pasta trata-se do exercício realizado na aula de introdução ao Git e Github.
+- Já realizado teste de conhecimento, modulo concluído. 
